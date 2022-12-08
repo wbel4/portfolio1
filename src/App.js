@@ -38,7 +38,7 @@ const pageData = {
         start: "May 2019",
         end: "Nov 2020",
         description: "Participated in an intensive 3-week programming institute where Google engineers taught participants how to develop web apps in HTML, CSS, and JavaScript. Through the creation of various small projects, I used JavaScript to create a multi-stage single-player (https://minute-to-win-it-project.glitch.me/) party game where the difficulty increases as the stages progress.",
-        image: "/google.png"
+        image: "https://i.imgur.com/GpoF2Sd.png"
     },
     ],
   skills: [
